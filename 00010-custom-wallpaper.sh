@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER="https://github.com/9e3fce0a/microg/raw/master/default_wallpaper.png"
+WALLPAPER="https://github.com/9e3fce0a/aosp10_custom/raw/master/default_wallpaper.png"
 mkdir -p $BUILD_DIR/branding
 echo "Downloading wallpaper $WALLPAPER"
 wget -O $BUILD_DIR/branding/default_wallpaper.png $WALLPAPER
