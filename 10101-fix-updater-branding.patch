@@ -1,5 +1,5 @@
---- packages/apps/Updater/res/values/strings.xml	2019-12-14 01:01:13.300947895 +0000
-+++ packages/apps/Updater/res/values/strings.xml	2019-12-14 01:37:07.009635517 +0000
+--- a/packages/apps/Updater/res/values/strings.xml
++++ b/packages/apps/Updater/res/values/strings.xml
 @@ -1,6 +1,6 @@
  <?xml version="1.0" encoding="utf-8"?>
  <resources>
